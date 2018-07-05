@@ -48,9 +48,6 @@ Contains the materal for the training courses organised in the frame of the In S
 	</ul>
 <br>
 <br>
-<br>
-<br>
-<br>
 - <b>How do I process In Situ data?:</b>
 <br>
 <br>
