@@ -55,7 +55,7 @@ Contains the materal for the training courses organised in the frame of the In S
 <br>
 	* folium animations: 
 <br>
-<img align="left" src="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/images/vessels.png" width="200">
+<img align="left" src="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/images/vessels.png" width="400">
 <br>
 <ul><li><a href="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/PythonNotebooks/folium_In_Situ_drifters.ipynb" target="_blank">drifters</a></li> 
 <li><a href="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/PythonNotebooks/folium_In_Situ_vessels.ipynb" target="_blank">vesselss</a></li>
@@ -68,7 +68,7 @@ Contains the materal for the training courses organised in the frame of the In S
 <br>
 	* map plots:
 <br>
-<img align="left" src="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/images/vessels2.png" width="200">
+<img align="left" src="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/images/vessels2.png" width="400">
 <br>
 <ul><li><a href="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/PythonNotebooks/In_Situ_drifters_on_map.ipynb" target="_blank">drifters</a></li>
 <li><a href="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/PythonNotebooks/map_In_Situ_vessels.ipynb" target="_blank">vessels</a></li>
@@ -82,7 +82,7 @@ Contains the materal for the training courses organised in the frame of the In S
 <br>
 	* 2D plots:
 <br>
-<img align="left" src="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/images/profiler.png" width="200">
+<img align="left" src="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/images/profiler.png" width="400">
 <br>
 <ul><li><a href="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/PythonNotebooks/2d_In_Situ_moorings.ipynb" target="_blank"> moorings</a></li>
 <li><a href="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/PythonNotebooks/2d_In_Situ_profilers.ipynb"  target="_blank"> profilers</a></li>
@@ -91,10 +91,9 @@ Contains the materal for the training courses organised in the frame of the In S
 </ul>
 <br>
 <br>
-
 	* 3D plot:
 <br>
-<img align="left" src="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/images/gliders.png" width="200">
+<img align="left" src="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/images/gliders.png" width="400">
 <br>
 <ul><li><a href="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/PythonNotebooks/3d_In_Situ_profilers.ipynb"  target="_blank">profilers</a></li>
 <li><a href="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/PythonNotebooks/3d_In_Situ_gliders.ipynb"  target="_blank">gliders</a></li>
