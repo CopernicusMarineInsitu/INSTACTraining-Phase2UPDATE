@@ -20,6 +20,7 @@ Presentations used during the previous training sessions. All presentations incl
 Contains the materal for the training courses organised in the frame of the In Situ component of the Copernicus Marine Environment Monitoring Service ([CMEMS](http://marine.copernicus.eu/)). Examples of data downloading and processing with [ipython notebooks](http://ipython.org/notebook.html) (or [Jupyter notebook](http://jupyter.org/)) using [netCDF](http://www.unidata.ucar.edu/software/netcdf/) files:
 
 - In Situ data products overview:
+
 <img align="left" src="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/images/spatial_coverage.png" width="400">
 
 	* [In Situ products list](./PythonNotebooks/In_Situ_products_list.ipynb) - NRT and REP 
@@ -30,6 +31,7 @@ Contains the materal for the training courses organised in the frame of the In S
 	* [In Situ product's parameters breakdown](./PythonNotebooks/In_Situ_parameters_breakdown.ipynb)
 
 - How do I find and download In Situ platforms-data? Index files as cheatsheets:
+
 <img align="left" src="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/images/data_sources.png" width="400">
 	* [In Situ data download - tips ](./PythonNotebooks/Download_In_Situ_data_tips.ipynb)
 	* [Targeting a specific area (bounding-box)](/PythonNotebooks/In_Situ_data_download_by_boundingbox.ipynb) 
@@ -42,6 +44,7 @@ Contains the materal for the training courses organised in the frame of the In S
 	* [Targeting a specific timestamp](./PythonNotebooks/In_Situ_data_download_by_timestamp.ipynb)
 
 - How do I process In Situ data?:
+
 <img align="left" src="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/images/vessels.png" width="400">
 	- folium animations: 
 		* [drifter](./PythonNotebooks/folium_In_Situ_drifters.ipynb) 
