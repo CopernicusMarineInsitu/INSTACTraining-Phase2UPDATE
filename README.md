@@ -20,6 +20,8 @@ Presentations used during the previous training sessions. All presentations incl
 Contains the materal for the training courses organised in the frame of the In Situ component of the Copernicus Marine Environment Monitoring Service ([CMEMS](http://marine.copernicus.eu/)). Examples of data downloading and processing with [ipython notebooks](http://ipython.org/notebook.html) (or [Jupyter notebook](http://jupyter.org/)) using [netCDF](http://www.unidata.ucar.edu/software/netcdf/) files:
 
 - In Situ data products overview:
+<img align="left" src="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/images/spatial_coverage.png" width="400">
+
 	* [In Situ products list](./PythonNotebooks/In_Situ_products_list.ipynb) - NRT and REP 
 	* [In Situ index files](./PythonNotebooks/In_Situ_index_files.ipynb) - shorcut for data discovery
 	* [In Situ product's spatial coverage](./PythonNotebooks/In_Situ_product_spatial_coverage.ipynb) (heatmap)
@@ -28,6 +30,7 @@ Contains the materal for the training courses organised in the frame of the In S
 	* [In Situ product's parameters breakdown](./PythonNotebooks/In_Situ_parameters_breakdown.ipynb)
 
 - How do I find and download In Situ platforms-data? Index files as cheatsheets:
+<img align="left" src="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/images/data_sources.png" width="400">
 	* [In Situ data download - tips ](./PythonNotebooks/Download_In_Situ_data_tips.ipynb)
 	* [Targeting a specific area (bounding-box)](/PythonNotebooks/In_Situ_data_download_by_boundingbox.ipynb) 
 	* [Targeting a specific time range](./PythonNotebooks/In_Situ_data_download_by_timerange.ipynb)
@@ -39,10 +42,22 @@ Contains the materal for the training courses organised in the frame of the In S
 	* [Targeting a specific timestamp](./PythonNotebooks/In_Situ_data_download_by_timestamp.ipynb)
 
 - How do I process In Situ data?:
-
-	- folium animations ([drifter](./PythonNotebooks/folium_In_Situ_drifters.ipynb), [vesselss](./PythonNotebooks/folium_In_Situ_vessels.ipynb),[gliders](./PythonNotebooks/folium_In_Situ_gliders.ipynb), [profilers](./PythonNotebooks/folium_In_Situ_profilers.ipynb))
-	- map plots ([drifters](./PythonNotebooks/In_Situ_drifters_on_map.ipynb), [vessels](./PythonNotebooks/map_In_Situ_vessels.ipynb))
+<img align="left" src="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/images/vessels.png" width="400">
+	- folium animations: 
+		* [drifter](./PythonNotebooks/folium_In_Situ_drifters.ipynb) 
+		* [vesselss](./PythonNotebooks/folium_In_Situ_vessels.ipynb)
+		* [gliders](./PythonNotebooks/folium_In_Situ_gliders.ipynb)
+		* [profilers](./PythonNotebooks/folium_In_Situ_profilers.ipynb)
+<br>
+<img align="left" src="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/images/vessels2.png" width="400">
+	- map plots:
+		* [drifters](./PythonNotebooks/In_Situ_drifters_on_map.ipynb)
+		* [vessels](./PythonNotebooks/map_In_Situ_vessels.ipynb)
+<br>
+<img align="left" src="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/images/profiler.png" width="400">
 	- 2D plots ([moorings](./PythonNotebooks/2d_In_Situ_moorings.ipynb), [profilers](./PythonNotebooks/2d_In_Situ_profilers.ipynb), [gliders](./PythonNotebooks/2d_In_Situ_gliders.ipynb), [vessels](./PythonNotebooks/2d_In_Situ_vessels.ipynb))
+<br>
+<img align="left" src="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/images/gliders.png" width="400">
 	- 3D plots ([profilers](./PythonNotebooks/3d_In_Situ_profilers.ipynb), [gliders](./PythonNotebooks/3d_In_Situ_gliders.ipynb), [vessels](./PythonNotebooks/3d_In_Situ_vessels.ipynb))
 
 
