@@ -14,7 +14,7 @@ For non-interactive download see next PythonNotebooks section.
 ## Presentations
 Find below the presentations used during the previous training sessions. All presentations include a brief introduction to the CMEMS in situ particularities as CMEMS provider of ON-SITE observations followed tipicallly by a more detailed presentation of a regional distribution unit (i.e IBI, GLO, MED, BAL, ARC etc).
 
-* [Malta](http://www.socib.es/users/protllan/CMEMS/jnsummersch/reveal.js-master/coding/): JERICO-NEXT Malta Summer School 2018: Operational Oceanography for Blue Growth. 09/07/2018 14/07/2018
+* [Malta](http://www.socib.es/users/protllan/CMEMS/jnsummerschool): JERICO-NEXT Malta Summer School 2018: Operational Oceanography for Blue Growth. 09/07/2018 14/07/2018
 
 ## PythonNotebooks
 
@@ -59,6 +59,7 @@ Contains the materal for the training courses organised in the frame of the In S
 <li><a href="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/PythonNotebooks/folium_In_Situ_gliders.ipynb" target="_blank">gliders</a></li>
 <li><a href="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/PythonNotebooks/folium_In_Situ_profilers.ipynb" target="_blank">profilers</a></li>
 </ul>
+<br>
 <br>
 <br>
 <br>
