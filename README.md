@@ -23,61 +23,66 @@ Contains the materal for the training courses organised in the frame of the In S
 
 <img align="left" src="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/images/spatial_coverage.png" width="400">
 <br>
-	* [In Situ products list](./PythonNotebooks/In_Situ_products_list.ipynb) - NRT and REP 
-	* [In Situ index files](./PythonNotebooks/In_Situ_index_files.ipynb) - shorcut for data discovery
-	* [In Situ product's spatial coverage](./PythonNotebooks/In_Situ_product_spatial_coverage.ipynb) (heatmap)
-	* [In Situ product's data sources breakdown](./PythonNotebooks/In_Situ_data_sources_breakdown.ipynb)
-	* [In Situ product's providers breakdown](./PythonNotebooks/In_Situ_providers_breakdown.ipynb)
-	* [In Situ product's parameters breakdown](./PythonNotebooks/In_Situ_parameters_breakdown.ipynb)
-
-- How do I find and download In Situ platforms-data? Index files as cheatsheets:
-
-<img align="left" src="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/images/data_sources.png" width="400">
+	<ul><li><a href="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/PythonNotebooks/In_Situ_products_list.ipynb" target="_blank">In Situ products list</a> - NRT and REP </li>
+	<li><a href="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/PythonNotebooks/In_Situ_index_files.ipynb" target="_blank">In Situ index files</a> - shorcut for data discovery</li>
+	<li><a href="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/PythonNotebooks/In_Situ_product_spatial_coverage.ipynb" target="_blank">In Situ product's spatial coverage</a> (heatmap)</li>
+	<li><a href="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/PythonNotebooks/In_Situ_data_sources_breakdown.ipynb" target="_blank">In Situ product's data sources breakdown</a></li>
+	<li><a href="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/PythonNotebooks/In_Situ_providers_breakdown.ipynb" target="_blank">In Situ product's providers breakdown</a></li>
+	<li><a href="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/PythonNotebooks/In_Situ_parameters_breakdown.ipynb" target="_blank">In Situ product's parameters breakdown</a></li>
+	</ul>
 <br>
-	* [In Situ data download - tips ](./PythonNotebooks/Download_In_Situ_data_tips.ipynb)
-	* [Targeting a specific area (bounding-box)](/PythonNotebooks/In_Situ_data_download_by_boundingbox.ipynb) 
-	* [Targeting a specific time range](./PythonNotebooks/In_Situ_data_download_by_timerange.ipynb)
-	* [Targeting a specific update date](./PythonNotebooks/In_Situ_data_download_by_timeupdate.ipynb)
-	* [Targeting a specific provider](./PythonNotebooks/In_Situ_data_download_by_provider.ipynb)
-	* [Targeting a specific parameter](./PythonNotebooks/In_Situ_data_download_by_parameter.ipynb)
-	* [Targeting a specific platform data source](./PythonNotebooks/In_Situ_data_download_by_platform_data_source.ipynb)
-	* [Targeting a specific platform category](./PythonNotebooks/In_Situ_data_download_by_platform_category.ipynb)
-	* [Targeting a specific timestamp](./PythonNotebooks/In_Situ_data_download_by_timestamp.ipynb)
-
+- How do I find and download In Situ platforms-data? Index files as cheatsheets:
+<br>
+<img align="left" src="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/images/data_sources.png" width="400">
+	<ul><li><a href="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/PythonNotebooks/Download_In_Situ_data_tips.ipynb" target="_blank">In Situ data download - tips</a></li>
+	<li><a href="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/PythonNotebooks/In_Situ_data_download_by_boundingbox.ipynb" target="_blank">Targeting a specific area (bounding-box)</a> </li>
+	<li><a href="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/PythonNotebooks/In_Situ_data_download_by_timerange.ipynb" target="_blank">Targeting a specific time range</a></li>
+	<li><a href="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/PythonNotebooks/In_Situ_data_download_by_timeupdate.ipynb" target="_blank">Targeting a specific update date</a></li>
+	<li><a href="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/PythonNotebooks/In_Situ_data_download_by_provider.ipynb" target="_blank">Targeting a specific provider</a></li>
+	<li><a href="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/PythonNotebooks/In_Situ_data_download_by_parameter.ipynb" target="_blank">Targeting a specific parameter</a></li>
+	<li><a href="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/PythonNotebooks/In_Situ_data_download_by_platform_data_source.ipynb" target="_blank">Targeting a specific platform data source</a></li>
+	<li><a href="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/PythonNotebooks/In_Situ_data_download_by_platform_category.ipynb" target="_blank">Targeting a specific platform category</a></li>
+	<li><a href="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/PythonNotebooks/In_Situ_data_download_by_timestamp.ipynb" target="_blank">Targeting a specific timestamp</a></li>
+	</ul>
+<br>
 - How do I process In Situ data?:
-
+<br>
+<br>
 <img align="left" src="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/images/vessels.png" width="400">
 <br>
 	* folium animations: 
-....... [drifter](./PythonNotebooks/folium_In_Situ_drifters.ipynb) 
-....... [vesselss](./PythonNotebooks/folium_In_Situ_vessels.ipynb)
-....... [gliders](./PythonNotebooks/folium_In_Situ_gliders.ipynb)
-....... [profilers](./PythonNotebooks/folium_In_Situ_profilers.ipynb)
+<ul><li><a href="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/PythonNotebooks/folium_In_Situ_drifters.ipynb" target="_blank">drifters</a></li> 
+<li><a href="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/PythonNotebooks/folium_In_Situ_vessels.ipynb" target="_blank">vesselss</a></li>
+<li><a href="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/PythonNotebooks/folium_In_Situ_gliders.ipynb" target="_blank">gliders</a></li>
+<li><a href="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/PythonNotebooks/folium_In_Situ_profilers.ipynb" target="_blank">profilers</a></li>
+</ul>
 <br>
 <br>
 <img align="left" src="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/images/vessels2.png" width="400">
 <br>
 	* map plots:
-....... [drifters](./PythonNotebooks/In_Situ_drifters_on_map.ipynb)
-....... [vessels](./PythonNotebooks/map_In_Situ_vessels.ipynb)
+<ul><li><a href="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/PythonNotebooks/In_Situ_drifters_on_map.ipynb" target="_blank">drifters</a></li>
+<li><a href="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/PythonNotebooks/map_In_Situ_vessels.ipynb" target="_blank">vessels</a></li>
+</ul>
 <br>
 <br>
 <img align="left" src="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/images/profiler.png" width="400">
 <br>
 	* 2D plots:
-......  [moorings](./PythonNotebooks/2d_In_Situ_moorings.ipynb)
-......  [profilers](./PythonNotebooks/2d_In_Situ_profilers.ipynb)
-......	[gliders](./PythonNotebooks/2d_In_Situ_gliders.ipynb)
-......	[vessels](./PythonNotebooks/2d_In_Situ_vessels.ipynb)
+<ul><li><a href="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/PythonNotebooks/2d_In_Situ_moorings.ipynb" target="_blank"> moorings</a></li>
+<li><a href="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/PythonNotebooks/2d_In_Situ_profilers.ipynb"  target="_blank"> profilers</a></li>
+<li><a href="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/PythonNotebooks/2d_In_Situ_gliders.ipynb" target="_blank"> gliders</a></li>
+<li><a href="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/PythonNotebooks/2d_In_Situ_vessels.ipynb" target="_blank"> vessels</a></li>
+</ul>
 <br>
 <br>
 <img align="left" src="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/images/gliders.png" width="400">
 <br>
 	* 3D plot:
-......	[profilers](./PythonNotebooks/3d_In_Situ_profilers.ipynb)
-......	[gliders](./PythonNotebooks/3d_In_Situ_gliders.ipynb)
-......	[vessels](./PythonNotebooks/3d_In_Situ_vessels.ipynb)
-
+<ul><li><a href="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/PythonNotebooks/3d_In_Situ_profilers.ipynb"  target="_blank">profilers</a></li>
+<li><a href="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/PythonNotebooks/3d_In_Situ_gliders.ipynb"  target="_blank">gliders</a></li>
+<li><a href="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/PythonNotebooks/3d_In_Situ_vessels.ipynb"  target="_blank">vessels</a></li>
+</ul>
 
 ## Legacy
 This material has been developed based on the material developed by [Charles Troupin](https://github.com/ctroupin) for CMEMS In Situ TAC Phase I Communication & Training activities. 
