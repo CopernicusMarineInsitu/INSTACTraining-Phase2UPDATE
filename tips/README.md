@@ -1,17 +1,17 @@
 ## CMEMS INSTAC KEY FACTS
 
-The In Situ component of the Copernicus Marine Environment Monitoring Services (CMEMS INSTAC) comprehends 7 product distribution units:
-<img align="left" src="https://github.com/CopernicusMarineInsitu/INSTACTraining/blob/master/images/regions.png" width="300">
-1. Global through [ftp1.ifremer.fr](wwz.ifremer.fr/)
-2. Artic through [ftp.nodc.no](arctic-roos.org/members/IMR)
-3. Baltic through [cmems.smhi.se](http://www.smhi.se/en) 
-4. Mediterranean through [medinsitu.hcmr.gr](http://www.hcmr.gr/en/)
-5. North West Shelves through [myocean.bsh.de](http://nwsportal.bsh.de/)
-6. Black Sea through [vftpmo.io-bas.bg](http://www.io-bas.bg/index_en.html)
-7. Iberian-Biscay-Ireland through [arcas.puertos.es](http://ibidataportal.puertos.es/quid.php)
+The In Situ component of the Copernicus Marine Environment Monitoring Services (CMEMS INSTAC) comprehends 7 production units:
+<img align="left" src="https://github.com/CopernicusMarineInsitu/INSTACTraining--UPDATE-/blob/master/images/regions.png" width="300">
+1. Global 
+2. Artic 
+3. Baltic 
+4. Mediterranean
+5. North West Shelf
+6. Black Sea
+7. Iberia-Biscay-Ireland
 
-All those distribution units package [in situ data products](http://cmems-resources.cls.fr/documents/PUM/CMEMS-INS-PUM-013.pdf) in netCDF format and distributes each of them in 3 different directories (*):
-<img align="right" src="https://github.com/CopernicusMarineInsitu/INSTACTraining/blob/master/images/ftp_struture.png" width="400">
+All those production units package [in situ data products](http://cmems-resources.cls.fr/documents/PUM/CMEMS-INS-PUM-013.pdf) in netCDF format that are distributed from CMEMS ftp portal ([NRT](nrt.cmems-du.eu) & [REP](my.cmems-du.eu)) and organized in 3 different directories (*):
+<img align="right" src="https://github.com/CopernicusMarineInsitu/INSTACTraining--UPDATE-/blob/master/images/ftpStruture.png" width="400">
 <br>
 <br>
 * history (long series of observations: one netCDF per platform)
@@ -46,14 +46,14 @@ Every line of those index files (history_index.txt, monthly_index.txt,latest_ind
     * common:
         * region bigram
         * data type format: TS (timeserie) or PR (profile)
-        * data type: CT, BO, RF, MO, DB, DC, TE and [more](http://cmems-resources.cls.fr/documents/PUM/CMEMS-INS-PUM-013.pdf)
+        * data sources: CT, BO, RF, MO, DB, DC, TE and [more](http://cmems-resources.cls.fr/documents/PUM/CMEMS-INS-PUM-013.pdf)
         * platform code
         * NetCDF file name suffix (.nc)
 
     * directory-dependent:
         * platform category (lates & history)
         * timestamp: YYYYMMDD (latest),YYYYMM (monthly)
-        * optional sub-setting code (history)
+        * optional subsetting code (history)
         * fixed name (latest)    
 
 <span padding-left="20%"><img src="https://github.com/CopernicusMarineInsitu/INSTACTraining/blob/master/images/naming.png" width="500"></span>
@@ -69,5 +69,4 @@ Every line of those index files (history_index.txt, monthly_index.txt,latest_ind
 11. data_mode
 12. parameters 
 
-For non-interactive in situ dataset download, looping over the lines of the index files is advisable. 
-<div style="margin: 0 auto"><img src="https://github.com/CopernicusMarineInsitu/INSTACTraining/blob/master/images/index_files.png" width="600"></div>
+For non-interactive in situ dataset download, looping over the lines of the index files is advisable.  
