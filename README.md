@@ -34,7 +34,7 @@ Contains the materal for the training courses organised in the frame of the In S
 <br>
 - <b>How do I find and download In Situ platforms-data? Index files as cheatsheets:</b>
 <br>
-<img align="left" src="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/images/data_sources.png" width="200">
+<img align="left" src="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/images/data_sources.png" width="300">
 	<ul><li><a href="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/PythonNotebooks/Download_In_Situ_data_tips.ipynb" target="_blank">In Situ data download - tips</a></li>
 	<li><a href="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/PythonNotebooks/In_Situ_data_download_by_boundingbox.ipynb" target="_blank">Targeting a specific area (bounding-box)</a> </li>
 	<li><a href="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/PythonNotebooks/In_Situ_data_download_by_timerange.ipynb" target="_blank">Targeting a specific time range</a></li>
