@@ -55,7 +55,7 @@ Contains the materal for the training courses organised in the frame of the In S
 <img align="left" src="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/images/vessels.png" width="400">
 <br>
 <ul><li><a href="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/PythonNotebooks/folium_In_Situ_drifters.ipynb" target="_blank">drifters</a></li> 
-<li><a href="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/PythonNotebooks/folium_In_Situ_vessels.ipynb" target="_blank">vesselss</a></li>
+<li><a href="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/PythonNotebooks/folium_In_Situ_vessels.ipynb" target="_blank">vessels</a></li>
 <li><a href="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/PythonNotebooks/folium_In_Situ_gliders.ipynb" target="_blank">gliders</a></li>
 <li><a href="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/PythonNotebooks/folium_In_Situ_profilers.ipynb" target="_blank">profilers</a></li>
 </ul>
@@ -67,7 +67,7 @@ Contains the materal for the training courses organised in the frame of the In S
 <img align="left" src="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/images/vessels2.png" width="400">
 <br>
 <ul><li><a href="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/PythonNotebooks/In_Situ_drifters_on_map.ipynb" target="_blank">drifters</a></li>
-<li><a href="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/PythonNotebooks/map_In_Situ_vessels.ipynb" target="_blank">vessels</a></li>
+<li><a href="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/PythonNotebooks/In_Situ_vessel_on_map.ipynb" target="_blank">vessels</a></li>
 </ul>
 <br>
 <br>
