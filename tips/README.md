@@ -1,6 +1,8 @@
 ## CMEMS INSTAC KEY FACTS
 
 The In Situ component of the Copernicus Marine Environment Monitoring Services (CMEMS INSTAC) comprehends 7 production units:
+<br>
+<br>
 <img align="left" src="https://github.com/CopernicusMarineInsitu/INSTACTraining--UPDATE-/blob/master/images/regions.png" width="300">
 1. Global 
 2. Artic 
