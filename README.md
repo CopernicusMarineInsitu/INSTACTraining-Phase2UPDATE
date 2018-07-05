@@ -48,25 +48,35 @@ Contains the materal for the training courses organised in the frame of the In S
 
 <img align="left" src="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/images/vessels.png" width="400">
 <br>
-	- folium animations: 
-		* [drifter](./PythonNotebooks/folium_In_Situ_drifters.ipynb) 
-		* [vesselss](./PythonNotebooks/folium_In_Situ_vessels.ipynb)
-		* [gliders](./PythonNotebooks/folium_In_Situ_gliders.ipynb)
-		* [profilers](./PythonNotebooks/folium_In_Situ_profilers.ipynb)
+	* folium animations: 
+....... [drifter](./PythonNotebooks/folium_In_Situ_drifters.ipynb) 
+....... [vesselss](./PythonNotebooks/folium_In_Situ_vessels.ipynb)
+....... [gliders](./PythonNotebooks/folium_In_Situ_gliders.ipynb)
+....... [profilers](./PythonNotebooks/folium_In_Situ_profilers.ipynb)
+<br>
 <br>
 <img align="left" src="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/images/vessels2.png" width="400">
 <br>
-	- map plots:
-		* [drifters](./PythonNotebooks/In_Situ_drifters_on_map.ipynb)
-		* [vessels](./PythonNotebooks/map_In_Situ_vessels.ipynb)
+	* map plots:
+....... [drifters](./PythonNotebooks/In_Situ_drifters_on_map.ipynb)
+....... [vessels](./PythonNotebooks/map_In_Situ_vessels.ipynb)
+<br>
 <br>
 <img align="left" src="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/images/profiler.png" width="400">
 <br>
-	- 2D plots ([moorings](./PythonNotebooks/2d_In_Situ_moorings.ipynb), [profilers](./PythonNotebooks/2d_In_Situ_profilers.ipynb), [gliders](./PythonNotebooks/2d_In_Situ_gliders.ipynb), [vessels](./PythonNotebooks/2d_In_Situ_vessels.ipynb))
+	* 2D plots:
+......  [moorings](./PythonNotebooks/2d_In_Situ_moorings.ipynb)
+......  [profilers](./PythonNotebooks/2d_In_Situ_profilers.ipynb)
+......	[gliders](./PythonNotebooks/2d_In_Situ_gliders.ipynb)
+......	[vessels](./PythonNotebooks/2d_In_Situ_vessels.ipynb)
+<br>
 <br>
 <img align="left" src="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/images/gliders.png" width="400">
 <br>
-	- 3D plots ([profilers](./PythonNotebooks/3d_In_Situ_profilers.ipynb), [gliders](./PythonNotebooks/3d_In_Situ_gliders.ipynb), [vessels](./PythonNotebooks/3d_In_Situ_vessels.ipynb))
+	* 3D plot:
+......	[profilers](./PythonNotebooks/3d_In_Situ_profilers.ipynb)
+......	[gliders](./PythonNotebooks/3d_In_Situ_gliders.ipynb)
+......	[vessels](./PythonNotebooks/3d_In_Situ_vessels.ipynb)
 
 
 ## Legacy
