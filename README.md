@@ -31,6 +31,7 @@ Contains the materal for the training courses organised in the frame of the In S
 	<li><a href="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/PythonNotebooks/In_Situ_parameters_breakdown.ipynb" target="_blank">In Situ product's parameters breakdown</a></li>
 	</ul>
 <br>
+<br>
 - How do I find and download In Situ platforms-data? Index files as cheatsheets:
 <br>
 <img align="left" src="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/images/data_sources.png" width="400">
@@ -44,6 +45,8 @@ Contains the materal for the training courses organised in the frame of the In S
 	<li><a href="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/PythonNotebooks/In_Situ_data_download_by_platform_category.ipynb" target="_blank">Targeting a specific platform category</a></li>
 	<li><a href="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/PythonNotebooks/In_Situ_data_download_by_timestamp.ipynb" target="_blank">Targeting a specific timestamp</a></li>
 	</ul>
+<br>
+<br>
 <br>
 - How do I process In Situ data?:
 <br>
