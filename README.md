@@ -19,7 +19,7 @@ Presentations used during the previous training sessions. All presentations incl
 
 Contains the materal for the training courses organised in the frame of the In Situ component of the Copernicus Marine Environment Monitoring Service ([CMEMS](http://marine.copernicus.eu/)). Examples of data downloading and processing with [ipython notebooks](http://ipython.org/notebook.html) (or [Jupyter notebook](http://jupyter.org/)) using [netCDF](http://www.unidata.ucar.edu/software/netcdf/) files:
 
-- In Situ data products overview:
+-<b> In Situ data products overview:</b>
 
 <img align="left" src="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/images/spatial_coverage.png" width="400">
 <br>
@@ -32,7 +32,7 @@ Contains the materal for the training courses organised in the frame of the In S
 	</ul>
 <br>
 <br>
-- How do I find and download In Situ platforms-data? Index files as cheatsheets:
+- <b>How do I find and download In Situ platforms-data? Index files as cheatsheets:</b>
 <br>
 <img align="left" src="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/images/data_sources.png" width="400">
 	<ul><li><a href="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/PythonNotebooks/Download_In_Situ_data_tips.ipynb" target="_blank">In Situ data download - tips</a></li>
@@ -50,10 +50,10 @@ Contains the materal for the training courses organised in the frame of the In S
 <br>
 <br>
 <br>
-- How do I process In Situ data?:
+- <b>How do I process In Situ data?:</b>
 <br>
 <br>
-	* folium animations: 
+<ul><li>folium animations:</li></ul>
 <br>
 <img align="left" src="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/images/vessels.png" width="400">
 <br>
@@ -66,7 +66,7 @@ Contains the materal for the training courses organised in the frame of the In S
 <br>
 <br>
 <br>
-	* map plots:
+<ul><li>map plots:</li></ul>
 <br>
 <img align="left" src="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/images/vessels2.png" width="400">
 <br>
@@ -80,7 +80,7 @@ Contains the materal for the training courses organised in the frame of the In S
 <br>
 <br>
 <br>
-	* 2D plots:
+<ul><li> 2D plots:</li></ul>
 <br>
 <img align="left" src="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/images/profiler.png" width="400">
 <br>
@@ -91,7 +91,9 @@ Contains the materal for the training courses organised in the frame of the In S
 </ul>
 <br>
 <br>
-	* 3D plot:
+<br>
+<br>
+<ul><li>3D plot:</li></ul>
 <br>
 <img align="left" src="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/images/gliders.png" width="400">
 <br>
