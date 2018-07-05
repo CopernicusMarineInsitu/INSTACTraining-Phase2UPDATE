@@ -48,6 +48,8 @@ Contains the materal for the training courses organised in the frame of the In S
 <br>
 <br>
 <br>
+<br>
+<br>
 - How do I process In Situ data?:
 <br>
 <br>
@@ -59,6 +61,8 @@ Contains the materal for the training courses organised in the frame of the In S
 <li><a href="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/PythonNotebooks/folium_In_Situ_gliders.ipynb" target="_blank">gliders</a></li>
 <li><a href="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/PythonNotebooks/folium_In_Situ_profilers.ipynb" target="_blank">profilers</a></li>
 </ul>
+<br>
+<br>
 <br>
 <br>
 <img align="left" src="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/images/vessels2.png" width="400">
@@ -86,7 +90,10 @@ Contains the materal for the training courses organised in the frame of the In S
 <li><a href="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/PythonNotebooks/3d_In_Situ_gliders.ipynb"  target="_blank">gliders</a></li>
 <li><a href="https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/PythonNotebooks/3d_In_Situ_vessels.ipynb"  target="_blank">vessels</a></li>
 </ul>
-
+<br>
+<br>
+<br>
+<br>
 ## Legacy
 This material has been developed based on the material developed by [Charles Troupin](https://github.com/ctroupin) for CMEMS In Situ TAC Phase I Communication & Training activities. 
 Additional and new material has been build by [Paz Rotllan](https://github.com/pazrg), responsible for In Situ TAC Communication & Training from 2017-onwards. 
