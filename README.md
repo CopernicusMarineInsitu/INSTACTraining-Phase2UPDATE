@@ -5,14 +5,15 @@ Ocean circulation models need information on the interior of the ocean to be abl
 <br>
 <img src="images/regions.png " width="500">
 
-In Situ data, along with any other Copernicus Marine Enviroment Monitoring (CMEMS) such as satellite and modelling products, can be downloaded via Web User Interface after [registration](http://marine.copernicus.eu/services-portfolio/register-now/) at [CMEMS product catalogue](http://marine.copernicus.eu/)). See [how to](http://marine.copernicus.eu/services-portfolio/technical-faq/).
+In Situ data, along with any other Copernicus Marine Enviroment Monitoring (CMEMS) such as satellite and modelling products, can be downloaded via Web User Interface after [registration](http://marine.copernicus.eu/services-portfolio/register-now/) at [CMEMS product catalogue](http://marine.copernicus.eu/). See [how to](http://marine.copernicus.eu/services-portfolio/technical-faq/).
 
 For non-interactive download see next PythonNotebooks section. 
 
 [Useful info](./tips/README.md)
 
 ## Presentations
-Presentations used during the previous training sessions. All presentations include a brief introduction to the CMEMS in situ particularities as CMEMS provider of ON-SITE observations followed by a more detailed presentation of a regional distribution unit (i.e IBI, GLO, MED, BAL, ARC etc). Particulary useful to check different NetCDF tools are La Spezia and Lisboa presentations.
+Find below the presentations used during the previous training sessions. All presentations include a brief introduction to the CMEMS in situ particularities as CMEMS provider of ON-SITE observations followed tipicallly by a more detailed presentation of a regional distribution unit (i.e IBI, GLO, MED, BAL, ARC etc).
+
 * [Malta](http://www.socib.es/users/protllan/CMEMS/jnsummersch/reveal.js-master/coding/): JERICO-NEXT Malta Summer School 2018: Operational Oceanography for Blue Growth. 09/07/2018 14/07/2018
 
 ## PythonNotebooks
