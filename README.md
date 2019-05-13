@@ -14,7 +14,7 @@ For non-interactive download see next PythonNotebooks section.
 ## Workshops
 Find below the presentations used during the previous training sessions. All presentations include a brief introduction to the CMEMS In Situ particularities as CMEMS provider of ON-SITE observations followed tipicallly by a more detailed presentation of a regional distribution unit (i.e IBI, GLO, MED, BAL, ARC etc).
 * [Lisbon](https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/PythonNotebooks/workshops/201905_lisbon): 2019 CMEMS IBI workshop (14/05/2019 - 15/05/2019)
-* [Edinburg](https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/PythonNotebooks/workshops/201903_Edinburgh): 2019 Edinburgh DataFest (11/03/2018 12/03/2019)
+* [Edinburgh](https://github.com/CopernicusMarineInsitu/INSTACTraining-Phase2UPDATE/blob/master/PythonNotebooks/workshops/201903_Edinburgh): 2019 Edinburgh DataFest (11/03/2018 12/03/2019)
 * [Malta](http://www.socib.es/users/protllan/CMEMS/jnsummerschool): JERICO-NEXT Malta Summer School 2018: Operational Oceanography for Blue Growth (09/07/2018 14/07/2018)
 
 
