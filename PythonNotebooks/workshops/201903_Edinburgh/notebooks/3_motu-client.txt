@@ -1,0 +1,11 @@
+
+1. From the anaconda prompt install motu client: 
+	pip install motuclient
+
+2. Create your own command to download a product:  
+
+motuclient --verbose --auth-mode=cas -u write-here-your-cmems-user -p write-here-your-cmems-password -m http://nrt.cmems-du.eu/motu-web/Motu -s GLOBAL_ANALYSIS_FORECAST_PHY_001_024-TDS -d global-analysis-forecast-phy-001-024 -z 0.49 -Z 0.50 -x -70 -X 25 -y -75 -Y 10 -t "2019-02-19" -T "2019-02-22" -v thetao -o write-here-your-output-directory -f test.nc
+
+In this case we have chosen the GLOBAL_ANALYSIS_FORECAST_PHY_001_024 product for downloading it; but you can choose others from the copernicus catalogue and do the same thing.
+
+3. Copy the above command in the anaconda prompt and press enter
